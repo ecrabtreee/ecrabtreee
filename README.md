@@ -1,13 +1,14 @@
-# <center> Hi👋, I'm Emily  </center>
+# <p align='center'> Hi👋, I'm Emily  </p>
 
-![Virginia Tech](https://media.licdn.com/dms/image/v2/D4E22AQHs3xF3BK2VtQ/feedshare-shrink_800/B4EZ0b9aJTI4Ag-/0/1774290576241?e=2147483647&v=beta&t=D_Ns3fUtAImpVipvt4uFRVNLYlGlcpaW5iVwmz6H_M0) 
-
+<p align="center" width="100%">
+    <img width="90%" src="https://media.licdn.com/dms/image/v2/D4E22AQHs3xF3BK2VtQ/feedshare-shrink_800/B4EZ0b9aJTI4Ag-/0/1774290576241?e=2147483647&v=beta&t=D_Ns3fUtAImpVipvt4uFRVNLYlGlcpaW5iVwmz6H_M0">
+</p>
 
 ## ⭐️ About Me
 Currently an undergraduate student at Virginia Tech studying Computational Modeling and Data Analytics - Biological Sciences (CMDB) with minors in Public Health and Mathematics. I'm passionate about applying data science, artificial intelligence, and machine learning to advance medical research and healthcare innovation.
 
 ## 📫 Connect With Me
-LinkedIn: linkedin.com/in/emily-ecrabtree
+LinkedIn: linkedin.com/in/emily-ecrabtree 
 
 GitHub: You’re already here!
 
