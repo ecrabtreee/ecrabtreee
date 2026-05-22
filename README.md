@@ -1,6 +1,6 @@
 # <center> Hi👋, I'm Emily  </center>
 
-![Virginia Tech](https://news.vt.edu/content/news_vt_edu/en/articles/2023/06/cm-statement-ruling/_jcr_content/article-image.transform/m-medium/image.jpg) 
+![Virginia Tech](https://media.licdn.com/dms/image/v2/D4E22AQHs3xF3BK2VtQ/feedshare-shrink_800/B4EZ0b9aJTI4Ag-/0/1774290576241?e=2147483647&v=beta&t=D_Ns3fUtAImpVipvt4uFRVNLYlGlcpaW5iVwmz6H_M0) 
 
 
 ## ⭐️ About Me
