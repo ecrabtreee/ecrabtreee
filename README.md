@@ -5,7 +5,7 @@
 </p>
 
 ## ⭐️ About Me
-Currently an undergraduate student at Virginia Tech studying Computational Modeling and Data Analytics - Biological Sciences (CMDB) with minors in Public Health and Mathematics. I'm passionate about applying data science, artificial intelligence, and machine learning to advance medical research and healthcare innovation.
+Currently an undergraduate student at Virginia Tech studying Computational Modeling and Data Analytics - Biological Sciences (CMDB) with minors in Public Health and Mathematics. Interested in computational biology, with a focus on childhood cancer research, biomedical innovation, and data‑driven approaches to improving patient outcomes.
 
 ## 📫 Connect With Me
 LinkedIn: linkedin.com/in/emily-ecrabtree 
